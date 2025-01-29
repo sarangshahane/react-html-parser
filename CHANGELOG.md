@@ -1,5 +1,9 @@
 # Change Log
 
+## v2.0.3 - 29th, January 2025
+### Improvement
+- Added react 17 and 18, in peer dependency and fixed version for 14
+
 ## v2.0.2
 ### Bug Fixes
 - Fix empty inline style attribute breaking rendering [#34](https://github.com/wrakky/react-html-parser/pull/34) ([kevinzwhuang](https://github.com/kevinzwhuang))
